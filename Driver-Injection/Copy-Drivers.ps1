@@ -1,5 +1,6 @@
-﻿#Universal Driver Copy Script - Generation 2. Version 2.0.9 Last Revised 03/31/2016 by Benjamin Simon
-#TODO: Rewrite error handling to use try{} catch{} blocks, and align error codes with ones used in current HII scripts where possible
+﻿#Universal Driver Copy Script - Generation 2. Version 2.1.0
+#This script is sourced from the Script Depot, is written by Benjamin Simon, and is licensed under the AGPLv3 License.
+# Script Depot: https://github.com/wizkid686/Script-Depot
 #TODO: Generate Folder manifests for each driver package, and create more thorough verification algorithim
 #TODO: Automatic Target update script?
 
