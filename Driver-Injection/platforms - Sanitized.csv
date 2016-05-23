@@ -1,0 +1,7 @@
+platform_id,platform_name,x86,x64,ARM,x86_SMP_Pkg,x64_SMP_Pkg,ARM_SMP_Pkg,x86_SMP_Pkg_GUID,x64_SMP_Pkg_GUID,ARM_SMP_Pkg_GUID,x86_DS_IMG_Pkg,x64_DS_IMG_Pkg,ARM_DS_IMG_Pkg,x86_DS_IMG_Pkg_Folder,x64_DS_IMG_Pkg_Folder,platform_status
+Win7,Windows 7,Yes,Yes,No,Yes,No,No,{W7X86-GUID},{W7X64-GUID},,Yes,Yes,No,HII_W7x32,HII_W7x64,Active
+Win8.1,Windows 8.1,No,Yes,No,No,Yes,No,{W8X86-GUID},{W8X64-GUID},,No,Yes,No,,HII_W8x64,Active
+Win10,Windows 10,No,Yes,No,No,No,No,{W10X86-GUID},{W10X64-GUID},,No,Yes,No,,HII_W10x64,Beta
+2008R2,Windows Server 2008R2,No,Yes,No,No,No,No,{W2008R2X86-GUID},{W2008R2X64-GUID},,No,No,No,,,Disabled
+2012R2,Windows Server 2012R2,No,Yes,No,No,No,No,{W2012R2X86-GUID},{W2012R2X64-GUID},,No,No,No,,,Disabled
+2016,Windows Server 2016,No,Yes,No,No,No,No,{W2016X86-GUID},{W2016X64-GUID},,No,No,No,,,Disabled
