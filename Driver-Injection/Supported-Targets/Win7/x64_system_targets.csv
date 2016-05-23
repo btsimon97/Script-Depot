@@ -1,0 +1,25 @@
+target_id,system_type,driver_folder_name
+Virtual,Desktop,Virtual
+dc5750,Desktop,dc5700
+dc5800,Desktop,dc5800
+dc7900,Desktop,dc7900
+6000 pro,Desktop,6000pro
+z400,Desktop,z400
+z210,Desktop,z210
+z220,Desktop,z220
+z230,Desktop,z230
+Prodesk 600 G1,Desktop,Prodesk600G1
+2740p,Mobile,2740p
+6470b,Mobile,6470b_8570p
+6550b,Mobile,6550b
+6570b,Mobile,6570b
+8540p,Mobile,8540p
+8560p,Mobile,6470b_8570p
+8570p,Mobile,6470b_8570p
+8760w,Mobile,8770w
+8770w,Mobile,8770w
+Folio 13,Mobile,folio13
+Folio 9470,Mobile,folio9470
+Folio 9480,Mobile,folio9480
+Zbook 14,Mobile,zBook
+ProBook 650 G1,Mobile,ProBook650G1
